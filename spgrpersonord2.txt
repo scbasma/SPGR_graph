@@ -1,0 +1,29 @@
+Lars: Effektiv, Samarbeidsvillig, Fornoeyd,
+Konstruktiv i samarbeidet, Effektiv, Rasjonell, Saklig, Stillferdig, Stoettende,
+Rasjonell, Konstruktiv i samarbeidet, Omgjengelig,
+Effektiv, Lojal, Fornoeyd,Lojal, Samarbeidsvillig, Innfallsrik
+
+Petter: Likegyldig, Fornoeyd, Utadvendt,
+Konstruktiv i samarbeidet, Samarbeidsvillig, Rasjonell, Kritisk, Omgjengelig, Innfallsrik,
+Oppgitt, Spontan, Samarbeidsvillig, Tilbakeholden, Aapen, Omgjengelig,
+Utadvendt, Fornoeyd, Tillitsfull
+
+Sondre: Lojal, Fornoeyd, Styrende,
+Konstruktiv i samarbeidet, Styrende, Omgjengelig, Konstruktiv i samarbeidet, Utadvendt, Omgjengelig,
+Analytisk, Fornoeyd, Omgjengelig, Konstruktiv i samarbeidet, Aapen, Aksepterer oppgaver,
+Aapen, Paalitelig, Konstruktiv i samarbeidet
+
+Monica: Paalitelig, Paalitelig, Aksepterer Oppgaver,
+Konstruktiv i samarbeidet, Saklig, Selskapelig, Demokratisk - Maalrettet, Effektiv, Paalitelig,
+Effektiv, Aapen, Omsorgsfull, Effektiv, Demokratisk - Maalrettet, Konkurranseinnstilt,
+Paalitelig, Styrende, Omgjengelig
+
+Marie: Effektiv, Innfallsrik, Lojal,
+Effektiv, Stoettende, Oppmuntrende, Stoettende, Paalitelig, Omtenksom,
+Oppmuntrende, Aapen,Innfallsrik, Paalitelig, Omtenksom, Omsorgsfull,
+Stoettende, Innfallsrik, Varsom
+
+Henrik: Analytisk, Utadvendt, Samarbeidsvillig,
+Analytisk, Utadvendt, Underholdende, Analytisk, Demokratisk - Maalrettet, Omtenksom,
+Omgjengelig, Kritisk, Innfallsrik,Saklig, Oppmuntrende, Paastaaelig,
+Kritisk, Utadvendt, Omgjengelig

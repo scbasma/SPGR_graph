@@ -1,0 +1,42 @@
+0
+Utadvendt,Aapen,Selskapelig
+Vennlig - Uformell,Ser alle som likeverdige
+Omtenksom,Trofast,Ser opp til alle
+
+45
+Demokratisk - Maalrettet,Konstruktiv i samarbeidet
+Samarbeidsvillig,Stoettende,Oppmuntrende
+Varsom,Aksepterer Oppgaver,Paalitelig
+
+90
+Upersonlig,Effektiv,Styrende
+Analytisk,Saklig,Rasjonell
+Lydig,Strevsom,Lojal
+
+135
+Autoritaer,Kontrollerende,Kritisk
+Paastaaelig,Uboeyelig
+Selvoppofrende,Selvmedlidende,Klagende
+
+180
+Paatrengende,Toeff,Konkurranseinnstilt,
+Lukket,Selvdrevet,Er seg selv nok,
+Innesluttet,Avvisende,Tilbakeholden
+
+225
+Selvsentrert,Provoserende,Umedgjoerlig
+Irritabel,Egenraadig,Likegyldig
+Motloes,Oppgitt,Giddeslaus
+
+270
+Dramatisk,Innfallsrik,Underholdende
+Utradisjonell,Umiddelbar,Spontan
+Engstelig,Anspendt,Betviler egne evner
+
+315
+Beskyttende,Omsorgsfull
+Omgjengelig,Medfoelende,Smidig
+Tillitsfull,Stillferdig,Fornoeyd
+
+
+
